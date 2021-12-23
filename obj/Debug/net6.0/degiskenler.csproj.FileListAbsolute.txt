@@ -1,0 +1,15 @@
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\bin\Debug\net6.0\degiskenler.exe
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\bin\Debug\net6.0\degiskenler.dll
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\bin\Debug\net6.0\ref\degiskenler.dll
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.dll
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+C:\Users\Doğuş\Desktop\yeni-c-sharp\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
