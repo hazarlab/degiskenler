@@ -1,0 +1,2 @@
+# degiskenler
+ degiskenleri ogrenmece
